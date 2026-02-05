@@ -416,27 +416,7 @@ tspan {
   z-index: 2;
 }
 
-image {
-    x: 100;
-    y: 100;
-    /* width: auto; */
-    height: auto;
-    clip-path: url(#photoClip);
-}
 
- .footer {
-      text-align: center;
-      font-size: 32px;
-      color: rgba(255, 255, 255, 0.7);
-      padding: 12px;
-      background: linear-gradient(90deg, #fe9696, #00bcd4);
-      color: #04122a;
-      border-radius: 6px;
-      margin-top: 20px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      font-weight: 500;
-      display:none;
 
-    }
 
     

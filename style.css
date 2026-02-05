@@ -232,6 +232,10 @@ tspan {
   #headdingText {
     font-size: 3.2rem;
   }
+  .footer {
+     display: none;
+
+    }
 }
 
 @media (max-width: 1400px) {

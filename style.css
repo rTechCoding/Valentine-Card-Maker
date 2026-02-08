@@ -15,7 +15,6 @@ body {
   background-color: var(--bg-app);
   height: 100vh;
   display: flex;
-
   color: var(--text);
   overflow: hidden; /* Evita scroll en el body, solo en paneles */
 }
